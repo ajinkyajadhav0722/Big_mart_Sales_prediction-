@@ -140,25 +140,5 @@ Based on the insights and findings, we recommend the following actions:
 
 ---
 
-## 🛠️ Installation & Usage
 
-### **1. Install Dependencies**
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost lightgbm
-```
 
-### **2. Run the Script**
-```bash
-python bigmart_sales_prediction.py
-```
-
-### **3. View Results**
-- Check plots & evaluation scores in `results/`
-
----
-
-## 👥 Contributors
-
-- **[Your Name]** - Data Analyst
-
-If you find this project useful, **please give it a ⭐ on GitHub!** 🚀

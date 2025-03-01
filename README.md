@@ -54,7 +54,7 @@ To support the analysis, the following visualizations were created:
 - **Opportunities for discount strategies** exist in certain price brackets to optimize sales volume.
 
 ### **Outlet Establishment Year Distribution**
-![Outlet Establishment Year](images/outlet_establishment.png)
+![Outlet Establishment Year](images/outlet_eastablishment.png)
 
 **Insights:**
 - **Older outlets (pre-2000) show consistent sales**, likely due to brand trust and established customer bases.
